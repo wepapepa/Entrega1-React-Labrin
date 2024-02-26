@@ -1,0 +1,17 @@
+
+
+p {
+    float: right;
+    color: pink;
+    font-size: 3rem;
+    margin: 10px;
+    padding: 10px 0;
+}
+
+svg {
+    display: flex;
+    float: right;
+    font-size: 5rem;
+    margin-top: 20px;
+}
+
